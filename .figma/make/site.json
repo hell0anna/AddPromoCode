@@ -1,0 +1,10 @@
+{
+  "description": "Enables users to apply, validate, and manage promo codes during online booking checkout, ensuring accurate discounts and seamless price updates.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
